@@ -11,6 +11,11 @@ first_name = input("Enter your First Name: ")
 last_name = input("Enter your Last Name: ")
 dream_job = input("Enter your Dream Job: ") 
 
+# Ask for more information
+favorite_hobby = input("Enter your Favorite Hobby: ") 
+favorite_color = input("Enter your Favorite Color: ")
+school = input("Enter your School: ")
+
 # Print fx
 print("\nInitializing . . . . .")
 
