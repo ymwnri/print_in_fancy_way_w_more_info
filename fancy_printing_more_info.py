@@ -31,4 +31,4 @@ for i in range(101):
     sleep(0.1)
     
 # Print user info
-print(f"\n\nHello, I am {first_name} {last_name}! My dream job is to become a {dream_job}. ")
+print(f"\n\nHello, I am {first_name} {last_name}! My dream job is to become a {dream_job}. \nMy favorite hobby is {favorite_hobby} and my favorite color is {favorite_color}. \nI am studying at {school}.")
